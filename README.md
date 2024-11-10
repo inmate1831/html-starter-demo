@@ -1,3 +1,3 @@
 <div align="center">
-  <h1>HTML STARTER DEMO</h1>
+  <p>HTML STARTER DEMO</p>
 </div>
